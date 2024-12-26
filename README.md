@@ -95,14 +95,19 @@ This shows that the audience have been very receptive to Fresh Cart's ads
   This means Fresh Cart has invested more time and resources into Twitter in terms of campaign frequency and duration while YouTube yielded better returns
 
 # Insights:
-YouTube or Twitter:Which platform is the most effective platform for Ad Campaigns?
+## YouTube or Twitter:Which platform is the most effective platform for Ad Campaigns?
 YouTubehas been the most effective platform for Fresh Cart's advertising for the following treasons
 1.  High Conversion Rate: Both YouTube and Twitter have conversion rate that exceed the e-commerce industry's
   average of 1-3%, this indicates that their audience are highly receptive to FreshCart'ads.
 2. Lowest Cost Per Conversion:YouTube's Cost Per Conversion is significantly lower than Twitter, which is more than 5 times higher than YouTube.
    This indicates the cost effectiveness of the platform in converting viewers into customers
-3. Impressive ROAS: The return 
+3. Impressive ROAS: The return on Ads spend (ROAS) for YouTube stands at impressive rrate 1298.84%. This means that Fresh Cart gets $12.99 in return for every
+   dollar spent on YouTube advertising. This is sinificanrtly higher than the ROAS on other platforms including Twitter (420.18%)
+4. Efficiency: YouTube generates more sales than Twitter even with fewer campaign(9 vs 12) and shorter ad durations.
+Considering all these factors, YouTube is the mosty effective platform for Fresh Cart's advertising. it offers a combination of high conversion rates,
+ maximises sales revenue, an impressive ROAS, and the lowest cost per conversion, all while requiring fewer campaign and shorter durations.
 
+## Which is the least effective platform for Ads campaign?
 
 
 
