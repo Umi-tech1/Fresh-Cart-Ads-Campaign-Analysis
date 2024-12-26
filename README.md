@@ -104,10 +104,17 @@ YouTubehas been the most effective platform for Fresh Cart's advertising for the
 3. Impressive ROAS: The return on Ads spend (ROAS) for YouTube stands at impressive rrate 1298.84%. This means that Fresh Cart gets $12.99 in return for every
    dollar spent on YouTube advertising. This is sinificanrtly higher than the ROAS on other platforms including Twitter (420.18%)
 4. Efficiency: YouTube generates more sales than Twitter even with fewer campaign(9 vs 12) and shorter ad durations.
+
+   
 Considering all these factors, YouTube is the mosty effective platform for Fresh Cart's advertising. it offers a combination of high conversion rates,
  maximises sales revenue, an impressive ROAS, and the lowest cost per conversion, all while requiring fewer campaign and shorter durations.
 
 ## Which is the least effective platform for Ads campaign?
+Based on this analysis, Google Ads has been the least effective or potentialkly overfunded platform for Fresh Cart's advertising for the following reasons
+1. Google Ads has the lowest conversion rate at 4.62%, which is notably lower than the conversion rates of other platforms
+2. Highest Cost Per Conversion: Google Ads also has the highest Cost Per Conversion at $35, making it the most expensive platform in terms of acquiring a customer
+3. Least ROAS: Google Ads is at the bottonm in terms of ROAS with 180.88%. While this is still a positive return, it's considerably lower than the other platform
+4. Google Ads generated sales revenue of $8.07k, which is higher than instagram but significantlt lower than YouTube, Twitter and Facebook.
 
 
 
