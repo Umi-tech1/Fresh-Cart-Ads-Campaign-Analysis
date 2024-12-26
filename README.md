@@ -116,6 +116,22 @@ Based on this analysis, Google Ads has been the least effective or potentialkly 
 3. Least ROAS: Google Ads is at the bottonm in terms of ROAS with 180.88%. While this is still a positive return, it's considerably lower than the other platform
 4. Google Ads generated sales revenue of $8.07k, which is higher than instagram but significantlt lower than YouTube, Twitter and Facebook.
 
+# Recommendations:
+## YouTube
+1. invest more in YouTube: given its high ROAS, lo cost per conversion, and significant sales revenue. Fresh Cart should consider increasing the budget allocation for YouTube advertising. This platfotm offers a cost effective way to acquire customers
+2. Analyze Successful Campaigns:Dee[p dive into the top performing YouTube campaigns to identify the type of contents that resonates best with the audience on the platform
+3. Explore the [possiblility of running more canmpaigns or extending the duration of successful ones to capitaliuze on its performance
 
+## Twitter
+1. Optimize Twitter Spend:While Twitter has a good conversion rate na significant sales revenue, the ROAS and cost per concersion suggest there's room for optimization. investigate areas for optimization on Twitter. Consider refining and targetting creativecontent and evaluating the performanceof individual campaigns to ensure better returns
+2. Analyze Successful Campaigns: Dee[p dive into the top performing Twitter campaigns to identify the type of contents that resonates best with the audience on the platform
+
+## Google Ads
+1. While Google Ads has an above-average conversion rate compared to industry standard, it lags behind other platforms in terms of ROAS, sales revenue, and has the highest cost per conversion for Fresh Cart
+2. Consider revisiting the keywords targetted, ad creatives, and landing pages to optimize performance
+3. Conduct a deeper analysis to identify if certain campaigns or ad groups within Google Ads are underperforming and refine ads strategy
+
+# Conclusions:
+While 
 
 
