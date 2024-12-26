@@ -132,6 +132,6 @@ Based on this analysis, Google Ads has been the least effective or potentialkly 
 3. Conduct a deeper analysis to identify if certain campaigns or ad groups within Google Ads are underperforming and refine ads strategy
 
 # Conclusions:
-While 
+While Fresh Cart has experience success across multiple platforms, there room for optimization and growth. By focusing on these recommendations, fresh Cart can further enhance it's digital advertising efficiency and effectiveness.
 
 
